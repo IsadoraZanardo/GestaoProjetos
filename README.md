@@ -11,9 +11,10 @@ Centralizar os materiais de apoio, as atividades práticas e os documentos relac
 O repositório está dividido em três diretórios principais: `Slides`, `Aulas` e `Outros`, cada um destinado a um tipo específico de material.
 
 ```text
-📦 gestao-de-projetos/
+📦 GestaoProjetos/
  ┣ 📂 Slides/
  ┃ ┗ 📄 Materiais disponibilizados pelo professor
+ ┃
  ┣ 📂 Aulas/
  ┃ ┣ 📂 Aula01/
  ┃ ┃ ┗ 📄 Atividades desenvolvidas em aula
@@ -22,6 +23,7 @@ O repositório está dividido em três diretórios principais: `Slides`, `Aulas`
  ┃ ┣ 📂 Aula03/
  ┃ ┃ ┗ 📄 Atividades desenvolvidas em aula
  ┃ ┗ 📂 ...
+ ┃
  ┣ 📂 Outros/
  ┃ ┗ 📄 Documentos e materiais complementares
  ┗ 📄 README.md
